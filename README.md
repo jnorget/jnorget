@@ -1,10 +1,11 @@
 ## Hi there 👋 I'm Julia
 #### A Friendly Data Lover Trying to Understand the World one Dataset at a Time
-I am a research assistant and PhD student at Bielefeld University. 
+I currently work as an IT-consultant at [viadee](https://www.viadee.de/). I'm mostly interested in data analysis and data science.
+Previously, I worked as a research assistant and PhD student at Bielefeld University. 
 
-🔭 I'm currently developing an easy-to-use data analysis tools based on <a href="[https://www.python.org](https://cran.r-project.org/)" target="_blank" rel="noreferrer"> <img src="https://cran.r-project.org/Rlogo.svg" alt="R" width="16" height="16"/> </a> for longitudinal data. Check out the [lsttheory repo](https://github.com/jnorget/lsttheory) or [my university profile](https://www.uni-bielefeld.de/fakultaeten/psychologie/abteilung/arbeitseinheiten/06/personen/wissenschaftl.personal/norget) for more info about my work. 
+🔭 During my PhD reserach, I developed an easy-to-use data analysis tools based on <a href="[https://www.python.org](https://cran.r-project.org/)" target="_blank" rel="noreferrer"> <img src="https://cran.r-project.org/Rlogo.svg" alt="R" width="16" height="16"/> </a> for longitudinal data. Check out the [lsttheory repo](https://github.com/jnorget/lsttheory) or [my university profile](https://www.uni-bielefeld.de/fakultaeten/psychologie/abteilung/arbeitseinheiten/06/personen/wissenschaftl.personal/norget) for more info about my work. 
 
-🌱 In the meantime, I am learning more about Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> </a> and data science beyond academia. 
+🌱 In the meantime, I am learning more about Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> </a> and data science beyond academia. I'm a mentor for Data Science projects at [TechLabs Münster](https://ms.techlabs.org/).
 
 
 <!--
